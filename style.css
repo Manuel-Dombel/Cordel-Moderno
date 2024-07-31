@@ -29,6 +29,13 @@ header h1{
 header p{
     margin: 0;
 }
+header p a{
+    color: white;
+    text-decoration: none;
+}
+header p a:hover{
+    text-decoration: underline;
+}
 section{
     padding: 30px;
     min-height: auto;
